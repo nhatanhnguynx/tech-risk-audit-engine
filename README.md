@@ -114,7 +114,7 @@ If you reference this software architecture or framework in your research, pleas
 ```bibtex
 @article{nguyen2026ai_audit,
   title={Artificial Intelligence in Audit Planning and Risk Assessment: A Systematic Literature Review and Research Agenda},
-  author={Nguyen, Nhat-Anh and Team},
+  author={NguyenNhatAnh},
   journal={Department of Accounting and Auditing Research Repository},
   year={2026}
 }
